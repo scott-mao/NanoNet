@@ -11,9 +11,12 @@ The architecture of the NanoNet follows an encoder-decoder approach as shown in 
 
 
 ## Results
-<img src="figures/quantative.png">
-<img src="figures/qualitative.png">
 
+### Quantitative Results
+<img src="figures/quantative.png">
+
+### Qualitative Results
+<img src="figures/qualitative.png">
 
 ## Citation
 Please cite our paper if you find the work useful: 
