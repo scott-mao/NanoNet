@@ -23,7 +23,7 @@ Please cite our paper if you find the work useful:
 <pre>
 @proceedings{jha2021nanonet,
   title={NanoNet: Real-Time Polyp Segmentation in Endoscopy},
-  author={Jha, Debesh and Ali, Sharib and Tomar, Nikhil Kumar and Johansen, H{\aa}vard D and Johansen, Dag and Rittscher, Jens and Riegler, Michael A and Halvorsen, P{\aa}l},
+  author={Jha, Debesh and Tomar, Nikhil Kumar and Ali, Sharib and Riegler, Michael A and Johansen, H{\aa}vard D and Johansen, Dag and Halvorsen, P{\aa}l},
   booktitle={IEEE Computer Based Multimedia System},
   publisher={IEEE}
 }
