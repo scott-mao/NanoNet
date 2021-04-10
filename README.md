@@ -5,27 +5,14 @@ The architecture of the NanoNet follows an encoder-decoder approach as shown in 
 [NanoNet: Real-Time Polyp Segmentation in Endoscopy](nanonet.pdf).
 
 
-## Architecture
-<img src="ColonSegNet.png" align="center">
-
-## Requirements:
-	os
-	numpy
-	cv2
-	tensorflow
-	glob
-	tqdm
-
-
-
 ## Proposed architecture
 
 <img src="figures/nanonet.png">
 
 
 ## Results
-<img src="figures/qualitative_results.png">
-<img src="figures/qualitative_results.png">
+<img src="figures/qualitative.png">
+<img src="figures/qualitative.png">
 
 
 ## Citation
